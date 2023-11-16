@@ -42,5 +42,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete l
 
 ## Autor
 
-Este proyecto fue creado por [Tu Nombre](enlace_al_perfil_o_contacto).
+Este proyecto fue creado por [Hafid Davila](www.linkedin.com/in/hafid-davila).
 
